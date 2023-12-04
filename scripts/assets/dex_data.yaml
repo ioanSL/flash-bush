@@ -1,0 +1,11 @@
+1:
+  DEX Name: "SushiSwap"
+  endpoint: "https://api.thegraph.com/subgraphs/name/sushiswap/matic-exchange"
+  pairs:
+    - "0x34965ba0ac2451a34a0471f04cca3f990b8dea27"
+
+2:
+  DEX Name: "QuickSwap"
+  endpoint: "https://api.thegraph.com/subgraphs/name/knoexus/quickswap-lightweight"
+  pairs:
+    - "0x853ee4b2a13f8a742d64c8f088be7ba2131f670d"
